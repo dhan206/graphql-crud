@@ -49,7 +49,7 @@
   "devDependencies": {
     "@intelight/tslint": "0.0.9",
     "@types/graphql": "0.13.3",
-    "@types/jest": "22.2.3",
+    "@types/jest": "23.3.0",
     "@types/node": "9.6.23",
     "jest": "23.4.1",
     "rimraf": "2.6.2",
